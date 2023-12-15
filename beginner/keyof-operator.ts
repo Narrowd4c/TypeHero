@@ -1,8 +1,5 @@
 // https://typehero.dev/challenge/keyof
 
-// keyof return union
-
-
 // answer
 type CasettesByArtist = typeof casettesByArtist;
 
